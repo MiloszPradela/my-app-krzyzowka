@@ -2,10 +2,9 @@ Projekt z przedmiotu Frameworki front-endowe.
 
 Wersja live aplikacji: https://vercel.app
 
-Użytwkonicy: 
- -login: milosz.pradela1@gmail.com, Haslo123
+Użytwkonicy:
+-login: milosz.pradela1@gmail.com, Haslo123
 
- 
 1. Zarejestruj się weryfikując email
 2. Zaloguj się: milosz.pradela1@gmail.com, Haslo123
 
@@ -43,7 +42,6 @@ return 0;
 6. npm install
 7. npm run build
 8. npm run dev
-
 
 Stack:
 -headlessUI (^2.1)
